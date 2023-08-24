@@ -79,7 +79,7 @@ Comparative analysis between DDPM and DDIM indicates differences in sampling spe
 Contributions to this repository are welcome. Feel free to open issues and submit pull requests to enhance the functionality and usability of the code.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ---
 *Disclaimer: This is a fictional README file generated for demonstration purposes based on the provided code snippet.*
